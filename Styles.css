@@ -46,3 +46,14 @@ p1{
     margin: 0 auto;
 }
 
+a:link{
+    color:rgb(141, 255, 141);
+}
+
+a:hover{
+    color:rgb(252, 255, 252);
+}
+
+a:visited{
+    color:rgb(223, 168, 255);
+}
